@@ -1,0 +1,11 @@
+Basically, there are two classes, which are ShoppingBasket and Item. ShoppingBasket contains a data structure by ArryList which contains a list of item object. Each item object contais the
+infomation of each item as well as some functions that handles the calculation of taxes and bills. The main function will let you choose which input set you want to use for testing(3 Total).
+After you choose which one you want to test, you will see the output. Please contact me if you cannot runn it anyway.
+
+Instructions:
+
+1. You can run the project by Eclipse IDE. Open Eclipse
+2. Click File on the top left corner. Choose Import
+3. Select Existing Projects into Workspace and browse to find this file folder.
+4. Check "Copy projects into workspace" option on the middle of the window.
+5. After imported the porject, click run to test it.
